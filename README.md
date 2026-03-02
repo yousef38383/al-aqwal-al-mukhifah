@@ -9,10 +9,10 @@
 **Author:** Unknown
 
 **الناشر:** غير محدد  
-**Publisher:** غير محدد
+**Publisher:** Unknown
 
 **سنة النشر:** غير محدد  
-**Year:** غير محدد
+**Year:** Unknown
 
 ## نبذة عن الكتاب / About the Book
 
@@ -31,8 +31,3 @@ Creed, Islamic History, Schools and Sects
 ## الكلمات المفتاحية / Keywords
 
 أبو حنيفة, ذم, أهل الرأي, السنة, البدع
-
----
-
-*تم إنشاء هذا المستودع تلقائياً باستخدام الذكاء الاصطناعي*  
-*This repository was automatically created using AI*
